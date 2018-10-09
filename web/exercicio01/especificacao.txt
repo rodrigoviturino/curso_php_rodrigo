@@ -1,0 +1,14 @@
+Criar uma aplicação web que gerencia usuários de um sistema. 
+A aplicação deve ter as seguintes funcionalidades:
+
+1- Listar todos os usuários cadastrados
+2 - Incluir usuários
+3 - Alterar senha do usuario
+4 - Desativar usuario
+
+--- O Usuario deve ter 'no minimo' os seguintes atributos.
+- Identificador unico
+- Nome completo
+- Nome de acesso
+- senha
+- Status (0 - Inativo/1 - Ativo)
